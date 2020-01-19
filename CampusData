@@ -480,6 +480,417 @@
           6.172582323334213
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "CFPJ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2112104892730713,
+          6.172896989001708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "CERSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2110602855682373,
+          6.172608989923452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Agence Nationale Pour l'Emploi ( ANPE )"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2120366096496582,
+          6.173430320214681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Maison de l'Entrepreneuriat "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2119615077972412,
+          6.173691652313012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Eglise Catholique Paroisse UL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2118864059448242,
+          6.1742783157376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Amphi 20 ans"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2132114171981812,
+          6.173867651408611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Amphi 600"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2133669853210447,
+          6.173520986467479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Campus Numérique Francophone (CNF)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2138444185256958,
+          6.174016983928724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Auditorium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2138229608535767,
+          6.174246315931194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Bibliothèque Universitaire "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2142360210418701,
+          6.174288982339307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Direction des Affaires Académiques et de la Scolarité ( DAAS)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.215088963508606,
+          6.175568972984186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Centre Informatique de Calcul (CIC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2143754959106445,
+          6.1762356335530155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Département de Physique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2141555547714233,
+          6.175483640370779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Grand Amphi FDS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2138605117797852,
+          6.175216975865254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Amphi FDS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2133830785751343,
+          6.1754196409016915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Ecole Nationale Supérieure d'Ingénieurs "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2126535177230835,
+          6.175024977338135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "ESA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2128090858459473,
+          6.175734304883518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Laboratoire d'Analyse des Sols et des Végétaux (ESA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.213039755821228,
+          6.176080968375831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2121438980102537,
+          6.175771637885908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "nom": "Espace GAYIBOR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.21199369430542,
+          6.176987625667221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Faculté des Sciences de la Santé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2130182981491089,
+          6.1768702936346225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Ecoles des Assistants Médicaux"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2124282121658325,
+          6.1773396216089775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Ecole Supérieure de Technologie Biologique et Alimentaire (ESTBA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2130182981491089,
+          6.1776862840501305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "pharmacy",
+        "nom": "Pharmacie du CHU Campus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2127125263214111,
+          6.179131597319743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "CHU Campus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.212385296821594,
+          6.17965425575913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Comptabilité du CHU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2136030197143552,
+          6.179750254191878
+        ]
+      }
     }
   ]
 }
