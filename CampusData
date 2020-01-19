@@ -955,6 +955,38 @@
           6.182422203580913
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Présidence de l'Université de Lomé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2118810415267944,
+          6.185376798567304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Amphi 1000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.210845708847046,
+          6.185062140319953
+        ]
+      }
     }
   ]
 }
