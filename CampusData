@@ -32,6 +32,374 @@
           6.1660809688363125
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Campus Plage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2181144952774046,
+          6.16650763933648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Résidence Albert Salon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.218211054801941,
+          6.166923642743633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Centre des Œuvres Universitaires de Lomé ": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2170737981796265,
+          6.16880632074881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Cité A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2166661024093628,
+          6.168710320332413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Cité B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2157273292541504,
+          6.168107650654525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Cité C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2148958444595337,
+          6.168603653182687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Jardin Botanique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2192463874816895,
+          6.169227655704114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Espace Gustambert "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2147241830825806,
+          6.169024988299068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "bank",
+        "nom": "Ecobank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2143701314926147,
+          6.169078321834225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "nom": "Restaurant Universitaire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2152981758117676,
+          6.169782323995358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "nom": "Restaurant Universitaire VIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2146812677383423,
+          6.169760990610272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "nom": "espace"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2142413854599,
+          6.169499656573303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Institut Confucius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2124121189117432,
+          6.170070324609937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Décanat FLESH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2133079767227173,
+          6.170304991661688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Agora FLESH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.212943196296692,
+          6.170454325185953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Département d'Anglais"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2158399820327759,
+          6.17085965882545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Direction de la Formation Permanente de l'Action et de la Recherche Pédagogique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2143379449844358,
+          6.170800992133659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Ecole Nationale pour la Formation Sociale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2130290269851685,
+          6.170982325523653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "place-of-worship",
+        "nom": "Mosquée du Campus de Lomé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2116020917892456,
+          6.171739658422887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Agora FASEG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2124121189117432,
+          6.172016991326471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Ecole Supérieur des Assistants Administratifs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2146061658859253,
+          6.1721289911117685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Amphi C FLESH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2142521142959595,
+          6.172688989683115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Amphi D FLESH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.214563250541687,
+          6.1727049896335995
+        ]
+      }
     }
   ]
 }
