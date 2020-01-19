@@ -400,6 +400,86 @@
           6.1727049896335995
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Amphi A FLESH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2137693166732788,
+          6.171867658242573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Amphi B FLESH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2141019105911255,
+          6.171888991542853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Institut Nationale des Sciences de l'Education"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2137264013290403,
+          6.172502323558444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Amphi A Droit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.213189959526062,
+          6.17228899076399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Amphi C Droit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2132865190505981,
+          6.172582323334213
+        ]
+      }
     }
   ]
 }
