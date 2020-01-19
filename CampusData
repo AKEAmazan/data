@@ -891,6 +891,70 @@
           6.179750254191878
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Amphi 1500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.208222508430481,
+          6.183632842873066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Espace Restauration Et Loisirs Campus Nord"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2084800004959106,
+          6.184566153210816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Bloc Polyvalent"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2101376056671143,
+          6.184368824876734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Amphi 1500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.210969090461731,
+          6.182422203580913
+        ]
+      }
     }
   ]
 }
