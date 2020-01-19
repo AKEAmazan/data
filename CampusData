@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Cité des 200 Lits"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2174707651138306,
+          6.1655902973367525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Nouvelle Résidence du Village du Benin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2172776460647583,
+          6.1660809688363125
+        ]
+      }
+    }
+  ]
+}
