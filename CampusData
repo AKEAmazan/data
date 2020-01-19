@@ -71,7 +71,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "Centre des Œuvres Universitaires de Lomé ": ""
+        "nom": "Centre des Œuvres Universitaires de Lomé "
       },
       "geometry": {
         "type": "Point",
