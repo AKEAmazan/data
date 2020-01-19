@@ -3,1133 +3,1514 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "nom": "Cité des 200 Lits"
-      },
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.2174707651138306,
           6.1655902973367525
         ]
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nom": "Nouvelle Résidence du Village du Benin"
-      },
+        "name": "Cité des 200 Lits",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.2172776460647583,
           6.1660809688363125
         ]
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nom": "Campus Plage"
-      },
+        "name": "Nouvelle Résidence du Village du Benin",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.2181144952774046,
           6.16650763933648
         ]
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nom": "Résidence Albert Salon"
-      },
+        "name": "Campus Plage",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.218211054801941,
           6.166923642743633
         ]
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nom": "Centre des Œuvres Universitaires de Lomé "
-      },
+        "name": "Résidence Albert Salon",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.2170737981796265,
           6.16880632074881
         ]
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nom": "Cité A"
-      },
+        "name": "Centre des Œuvres Universitaires de Lomé",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.2166661024093628,
           6.168710320332413
         ]
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nom": "Cité B"
-      },
+        "name": "Cité A",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.2157273292541504,
           6.168107650654525
         ]
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nom": "Cité C"
-      },
+        "name": "Cité B",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.2148958444595337,
           6.168603653182687
         ]
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nom": "Jardin Botanique"
-      },
+        "name": "Cité C",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.2192463874816895,
           6.169227655704114
         ]
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nom": "Espace Gustambert "
-      },
+        "name": "Jardin Botanique",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.2147241830825806,
           6.169024988299068
         ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Espace Gustambert",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "bank",
-        "nom": "Ecobank"
-      },
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.2143701314926147,
           6.169078321834225
         ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "bank",
+        "name": "Ecobank",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "restaurant",
-        "nom": "Restaurant Universitaire"
-      },
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.2152981758117676,
           6.169782323995358
         ]
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "restaurant",
-        "nom": "Restaurant Universitaire VIP"
-      },
+        "name": "Restaurant Universitaire",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.2146812677383423,
           6.169760990610272
         ]
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "restaurant",
-        "nom": "espace"
-      },
+        "name": "Restaurant Universitaire VIP",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.2142413854599,
           6.169499656573303
         ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "name": "espace",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "nom": "Institut Confucius"
-      },
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.2124121189117432,
           6.170070324609937
         ]
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nom": "Décanat FLESH"
-      },
+        "name": "Institut Confucius",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.2133079767227173,
           6.170304991661688
         ]
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nom": "Agora FLESH"
-      },
+        "name": "Décanat FLESH",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.212943196296692,
           6.170454325185953
         ]
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nom": "Département d'Anglais"
-      },
+        "name": "Agora FLESH",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.2158399820327759,
           6.17085965882545
         ]
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nom": "Direction de la Formation Permanente de l'Action et de la Recherche Pédagogique"
-      },
+        "name": "Département d'Anglais",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.2143379449844358,
           6.170800992133659
         ]
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nom": "Ecole Nationale pour la Formation Sociale"
-      },
+        "name": "Direction de la Formation Permanente de l'Action et de la Recherche Pédagogique",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.2130290269851685,
           6.170982325523653
         ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Ecole Nationale pour la Formation Sociale",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "place-of-worship",
-        "nom": "Mosquée du Campus de Lomé"
-      },
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.2116020917892456,
           6.171739658422887
         ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "place-of-worship",
+        "name": "Mosquée du Campus de Lomé",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "nom": "Agora FASEG"
-      },
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.2124121189117432,
           6.172016991326471
         ]
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nom": "Ecole Supérieur des Assistants Administratifs"
-      },
+        "name": "Agora FASEG",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.2146061658859253,
           6.1721289911117685
         ]
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nom": "Amphi C FLESH"
-      },
+        "name": "Ecole Supérieur des Assistants Administratifs",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.2142521142959595,
           6.172688989683115
         ]
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nom": "Amphi D FLESH"
-      },
+        "name": "Amphi C FLESH",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.214563250541687,
           6.1727049896335995
         ]
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nom": "Amphi A FLESH"
-      },
+        "name": "Amphi D FLESH",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.2137693166732788,
           6.171867658242573
         ]
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nom": "Amphi B FLESH"
-      },
+        "name": "Amphi A FLESH",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.2141019105911255,
           6.171888991542853
         ]
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nom": "Institut Nationale des Sciences de l'Education"
-      },
+        "name": "Amphi B FLESH",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.2137264013290403,
           6.172502323558444
         ]
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nom": "Amphi A Droit"
-      },
+        "name": "Institut Nationale des Sciences de l'Education",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.213189959526062,
           6.17228899076399
         ]
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nom": "Amphi C Droit"
-      },
+        "name": "Amphi A Droit",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.2132865190505981,
           6.172582323334213
         ]
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nom": "CFPJ"
-      },
+        "name": "Amphi C Droit",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.2112104892730713,
           6.172896989001708
         ]
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nom": "CERSA"
-      },
+        "name": "CFPJ",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.2110602855682373,
           6.172608989923452
         ]
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nom": "Agence Nationale Pour l'Emploi ( ANPE )"
-      },
+        "name": "CERSA",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.2120366096496582,
           6.173430320214681
         ]
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nom": "Maison de l'Entrepreneuriat "
-      },
+        "name": "Agence Nationale Pour l'Emploi ( ANPE )",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.2119615077972412,
           6.173691652313012
         ]
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nom": "Eglise Catholique Paroisse UL"
-      },
+        "name": "Maison de l'Entrepreneuriat",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.2118864059448242,
           6.1742783157376
         ]
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nom": "Amphi 20 ans"
-      },
+        "name": "Eglise Catholique Paroisse UL",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.2132114171981812,
           6.173867651408611
         ]
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nom": "Amphi 600"
-      },
+        "name": "Amphi 20 ans",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.2133669853210447,
           6.173520986467479
         ]
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nom": "Campus Numérique Francophone (CNF)"
-      },
+        "name": "Amphi 600",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.2138444185256958,
           6.174016983928724
         ]
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nom": "Auditorium"
-      },
+        "name": "Campus Numérique Francophone (CNF)",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.2138229608535767,
           6.174246315931194
         ]
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nom": "Bibliothèque Universitaire "
-      },
+        "name": "Auditorium",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.2142360210418701,
           6.174288982339307
         ]
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nom": "Direction des Affaires Académiques et de la Scolarité ( DAAS)"
-      },
+        "name": "Bibliothèque Universitaire",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.215088963508606,
           6.175568972984186
         ]
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nom": "Centre Informatique de Calcul (CIC)"
-      },
+        "name": "Direction des Affaires Académiques et de la Scolarité ( DAAS)",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.2143754959106445,
           6.1762356335530155
         ]
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nom": "Département de Physique"
-      },
+        "name": "Centre Informatique de Calcul (CIC)",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.2141555547714233,
           6.175483640370779
         ]
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nom": "Grand Amphi FDS"
-      },
+        "name": "Département de Physique",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.2138605117797852,
           6.175216975865254
         ]
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nom": "Amphi FDS"
-      },
+        "name": "Grand Amphi FDS",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.2133830785751343,
           6.1754196409016915
         ]
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nom": "Ecole Nationale Supérieure d'Ingénieurs "
-      },
+        "name": "Amphi FDS",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.2126535177230835,
           6.175024977338135
         ]
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nom": "ESA"
-      },
+        "name": "Ecole Nationale Supérieure d'Ingénieurs",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.2128090858459473,
           6.175734304883518
         ]
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nom": "Laboratoire d'Analyse des Sols et des Végétaux (ESA)"
-      },
+        "name": "ESA",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.213039755821228,
           6.176080968375831
         ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.2121438980102537,
-          6.175771637885908
-        ]
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
-        "marker-symbol": "restaurant",
-        "nom": "Espace GAYIBOR"
-      },
+        "marker-symbol": "",
+        "name": "Laboratoire d'Analyse des Sols et des Végétaux (ESA)",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.21199369430542,
           6.176987625667221
         ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "name": "Espace GAYIBOR",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "nom": "Faculté des Sciences de la Santé"
-      },
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.2130182981491089,
           6.1768702936346225
         ]
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nom": "Ecoles des Assistants Médicaux"
-      },
+        "name": "Faculté des Sciences de la Santé",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.2124282121658325,
           6.1773396216089775
         ]
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nom": "Ecole Supérieure de Technologie Biologique et Alimentaire (ESTBA)"
-      },
+        "name": "Ecoles des Assistants Médicaux",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.2130182981491089,
           6.1776862840501305
         ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Ecole Supérieure de Technologie Biologique et Alimentaire (ESTBA)",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "pharmacy",
-        "nom": "Pharmacie du CHU Campus"
-      },
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.2127125263214111,
           6.179131597319743
         ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "pharmacy",
+        "name": "Pharmacie du CHU Campus",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "nom": "CHU Campus"
-      },
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.212385296821594,
           6.17965425575913
         ]
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nom": "Comptabilité du CHU"
-      },
+        "name": "CHU Campus",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.2136030197143552,
           6.179750254191878
         ]
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nom": "Amphi 1500"
-      },
+        "name": "Comptabilité du CHU",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.208222508430481,
           6.183632842873066
         ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Amphi 1500",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "restaurant",
-        "nom": "Espace Restauration Et Loisirs Campus Nord"
-      },
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.2084800004959106,
           6.184566153210816
         ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "name": "Espace Restauration Et Loisirs Campus Nord",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "nom": "Bloc Polyvalent"
-      },
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.2101376056671143,
           6.184368824876734
         ]
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nom": "Amphi 1500"
-      },
+        "name": "Bloc Polyvalent",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.210969090461731,
           6.182422203580913
         ]
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nom": "Présidence de l'Université de Lomé"
-      },
+        "name": "Amphi 1500",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.2118810415267944,
           6.185376798567304
         ]
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nom": "Amphi 1000"
-      },
+        "name": "Présidence de l'Université de Lomé",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.210845708847046,
           6.185062140319953
         ]
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nom": "CITE D"
-      },
+        "name": "Amphi 1000",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.2092632055282593,
           6.185019474780463
         ]
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nom": "CITE E"
-      },
+        "name": "CITE D",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.2093329429626465,
           6.185632791579556
         ]
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nom": "CITE F"
-      },
+        "name": "CITE E",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.2092202901840208,
           6.186176776318963
         ]
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nom": "Salle Restaurant "
-      },
+        "name": "CITE F",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.2097996473312378,
           6.1867687590757505
         ]
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nom": "Direction des Ressources Humaines"
-      },
+        "name": "Salle Restaurant",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.2111032009124756,
           6.186672761916981
         ]
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nom": "Salle Esplanade"
-      },
+        "name": "Direction des Ressources Humaines",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.210395097732544,
           6.1860114476828665
         ]
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nom": "Amphi 500"
-      },
+        "name": "Salle Esplanade",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.2103468179702759,
           6.186240774486796
         ]
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nom": "Salle 103"
-      },
+        "name": "Amphi 500",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.210641860961914,
           6.186459434835095
         ]
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nom": "Secrétariat FASEG"
-      },
+        "name": "Salle 103",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.210561394691467,
           6.186416769408376
         ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Secrétariat FASEG",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2104862928390503,
+          6.186091445416466
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "CIP",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2104219198226929,
+          6.187958055763241
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "name": "Espace Restauration",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
       }
     },
     {
@@ -1138,29 +1519,18 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nom": "CIP"
+        "name": "Bâtiment TP ENSI",
+        "category": "",
+        "address": "",
+        "info": "",
+        "imagetmb": "",
+        "image": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.2104862928390503,
-          6.186091445416466
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "restaurant",
-        "nom": "Espace Restauration"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.2104219198226929,
-          6.187958055763241
+          1.2122136354446411,
+          6.175766304600016
         ]
       }
     }
