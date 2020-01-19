@@ -913,7 +913,7 @@
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "restaurant",
         "nom": "Espace Restauration Et Loisirs Campus Nord"
       },
       "geometry": {
@@ -985,6 +985,182 @@
         "coordinates": [
           1.210845708847046,
           6.185062140319953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "CITE D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2092632055282593,
+          6.185019474780463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "CITE E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2093329429626465,
+          6.185632791579556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "CITE F"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2092202901840208,
+          6.186176776318963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Salle Restaurant "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2097996473312378,
+          6.1867687590757505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Direction des Ressources Humaines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2111032009124756,
+          6.186672761916981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Salle Esplanade"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.210395097732544,
+          6.1860114476828665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Amphi 500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2103468179702759,
+          6.186240774486796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Salle 103"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.210641860961914,
+          6.186459434835095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Secrétariat FASEG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.210561394691467,
+          6.186416769408376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "CIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2104862928390503,
+          6.186091445416466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "nom": "Espace Restauration"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2104219198226929,
+          6.187958055763241
         ]
       }
     }
